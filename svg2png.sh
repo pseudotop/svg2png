@@ -36,3 +36,4 @@ for i in ${arr[@]};do
     cp /var/www/html/w/images/thumb/${j}/${pixel}px-${filename}.png ${dir} 
 done
 echo "===== end ====="
+echo "test"
